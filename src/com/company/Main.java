@@ -26,7 +26,7 @@ public class Main {
                 System.out.println("High Temperature");
             }
             else {
-                System.out.println("Please enter a valid number, between 92.0 and 104.0.");
+                System.out.println("Please enter a number, between 92.0 and 104.0.");
             }
         }
 
